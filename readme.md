@@ -2,7 +2,11 @@
 
 ## Introduction
 
-The servlet implementation to transform static xml or xhtml files with XSL in server-side and send result to browser. This make you easy to maintainance your design. 
+The servlet implementation to transform static xml or xhtml files with XSL in server-side and send result to browser.
+This make you easy to maintainance your design. 
+
+* Environment: Java SE 6 or later, Servlet API 2.5 (Java EE 5) or later; such as Tomcat 6.0 (SuSE Linux 11, MacOS X 10.5)
+* Libraries: No additional library dependencies, using JDK-Standard Java Logging API
 
 ## Feature
 
