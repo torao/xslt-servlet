@@ -32,5 +32,7 @@ http://www.koiroha.org/kwt/xsl/index.xhtml
 
 # Reference
 
+* [API Reference](http://www.koiroha.org/kwt/api/)
+
 # License
 This module, contains source code, binary and documentation, is in the BSD License, and comes with NO WARRANTY
